@@ -1,5 +1,4 @@
-# PSPi 6
-Welcome to the PSPi 6 GitHub repository! This project is a combination of hardware and software development aiming to retrofit a PSP with almost every type of Raspberry Pi.
+# This is a Forked Repo of Othermod's PSPI Version 6. I intend to make some changes to the PCB
 
 ![PSPi](https://othermod.com/wp-content/uploads/IMG_8727.jpg)
 
